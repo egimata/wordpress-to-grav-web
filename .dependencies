@@ -15,6 +15,10 @@ git:
         url: https://github.com/getgrav/grav-theme-quark
         path: user/themes/quark
         branch: master
+    diabet-theme:
+        url: https://github.com/egimata/grav-theme
+        path: user/themes/diabetica
+        branch: master
 links:
     problems:
         src: grav-plugin-problems
@@ -31,4 +35,8 @@ links:
     quark:
         src: grav-theme-quark
         path: user/themes/quark
+        scm: github
+    diabet-theme:
+        src: grav-theme
+        path: user/themes/diabetica
         scm: github
