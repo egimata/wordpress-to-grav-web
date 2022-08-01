@@ -1,0 +1,24 @@
+---
+title: "La mission dell'associazione"
+date: "2019-12-20"
+---
+
+\[vc\_row\]\[vc\_column width="1/2"\]\[vc\_row\_inner el\_class="box" css=".vc\_custom\_1576837056295{margin-right: 50px !important;padding-top: 35px !important;padding-right: 35px !important;padding-bottom: 40px !important;padding-left: 35px !important;}"\]\[vc\_column\_inner\]\[vc\_custom\_heading text="La mission dell'associazione" font\_container="tag:h3|text\_align:left" use\_theme\_fonts="yes"\]\[dt\_vc\_list style="2" dividers="false"\]
+
+**L’Associazione Diabetici della Provincia di Brescia (A.D.P.B.)** è stata fondata a Brescia nel 1982 per iniziativa di un gruppo di pazienti diabetici che si conobbero nel reparto di Seconda Medicina pressi gli Spedali Civili di Brescia. I medici accolsero l'idea con grande interesse, ritenendo che un'associazione ben strutturata potesse offrire al malato diabetico un valido aiuto psicologico soprattutto nel primo impatto con la malattia e le sue complicanze. La partecipazione attiva del pazienti volontari aveva come fine quello di collaborare con gli organi sanitari nell'estendere l'informazione, favorire corsi di educazione dietetica e igienica, aiutare all'autocontrollo domiciliare e cooperare per un buon inserimento dei diabetici nel mondo del lavoro e in quello della scuola.
+
+Nel **2020** l'Associazione Diabetici della Provincia di Brescia conta circa   **9.000** **iscritti**
+
+\[/dt\_vc\_list\]\[ult\_buttons btn\_title="Contattaci" btn\_link="url:tel%3A0303700039|||" btn\_size="ubtn-custom" btn\_width="200" btn\_height="50" btn\_title\_color="#ffffff" btn\_bg\_color="#f78800" icon\_size="32" btn\_icon\_pos="ubtn-sep-icon-at-left" btn\_font\_style="font-weight:bold;" btn\_font\_size="desktop:20px;"\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[/vc\_column\]\[vc\_column width="1/2"\]\[vc\_row\_inner\]\[vc\_column\_inner\]\[ultimate\_heading main\_heading="Le attività dell'Associazione" heading\_tag="h3" sub\_heading\_color="#93c248" alignment="left" main\_heading\_style="font-weight:bold;" sub\_heading\_style="font-weight:bold;" sub\_heading\_font\_size="desktop:24px;" sub\_heading\_line\_height="desktop:34px;"\]\[/ultimate\_heading\]\[vc\_column\_text css=".vc\_custom\_1606837488819{padding-bottom: 10px !important;}"\]
+
+#### Sono particolarmente importanti.
+
+In Lombardia una persona su 8 ha il diabete o una forma di pre-diabete. In ogni famiglia c’è o ci sarà un componente con questa malattia, che sta diventando un problema sociale, oltre che sanitario. Anche nel Bresciano i casi sono in progressiva crescita, con 80.000 malati diagnosticati (con una prevalenza del 6,2 per cento nella popolazione) e una quota aggiuntiva di persone che non sa ancora di esserne affetta.
+
+Negli ultimi dieci anni, infatti, i pazienti diabetici assistiti a Brescia e Provincia sono raddoppiati:. Considerando la patologia da un punto di vista globale, l’Organizzazione Mondiale della Sanità conta 415 milioni di diabetici nel mondo, prevedendone un aumento esponenziale nei prossimi anni.
+
+\[/vc\_column\_text\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[vc\_row\_inner equal\_height="yes"\]\[vc\_column\_inner\]\[bsf-info-box icon="icomoon-the7-font-the7-tag-05" icon\_size="32" icon\_color="" title="Le attività dell'Associazione mirano al raggiungimento di due obiettivi:" el\_class="accent-icon-color" title\_font="font\_family:Open Sans|font\_call:Open+Sans|variant:700" title\_font\_style="font-weight:700;" title\_font\_size="desktop:20px;" title\_font\_line\_height="desktop:30px;" css\_info\_box=".vc\_custom\_1576837578667{margin-bottom: 30px !important;}"\]**\- Tutela e Assistenza** dei pazienti diabetici di Brescia e Provincia attraverso servizi di consulenza gratuita offerti presso le nostre sezioni e attività focalizzate al miglioramento della gestione della patologia come corsi formativi, simposi, eventi sportivi e di intrattenimento. -**Prevenzione** della patologia e sensibilizzazione ad un corretto stile di vita attraverso corsi formativi, conferenze, attività educative nelle scuole, giornate di prevenzione, eventi organizzati sul territorio.\[/bsf-info-box\]\[bsf-info-box icon="Defaults-group" icon\_size="32" icon\_color="" title="L'Associazione è supportata dai volontari" el\_class="accent-icon-color" title\_font="font\_family:Open Sans|font\_call:Open+Sans|variant:700" title\_font\_style="font-weight:700;" title\_font\_size="desktop:20px;" title\_font\_line\_height="desktop:30px;" css\_info\_box=".vc\_custom\_1576837677087{margin-bottom: 30px !important;}"\]
+
+che contribuiscono con il prezioso dono del loro tempo, dalle donazioni filantropiche e dalle quote del 5xmille destinate all'ADPB; dal sostegno dei medici diabetologi e dal personale sanitario delle strutture ospedialiere di Brescia e Provincia; dal Patrocinio dei Comuni di Brescia e della Provincia di Brescia.
+
+\[/bsf-info-box\]\[/vc\_column\_inner\]\[/vc\_row\_inner\]\[/vc\_column\]\[/vc\_row\]

@@ -4,7 +4,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: quark
+  theme: diabetica
   markdown:
     extra: false
   process:

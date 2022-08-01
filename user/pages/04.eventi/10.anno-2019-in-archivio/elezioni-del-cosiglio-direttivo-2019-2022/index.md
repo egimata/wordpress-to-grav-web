@@ -1,0 +1,14 @@
+---
+title: "Elezioni del Cosiglio Direttivo 2019-2022"
+date: "2019-04-28"
+taxonomy: 
+    tag: [anno-2019-in-archivio]
+---
+
+A seguito delle elezioni che si sono tenute il 6 aprile 2019 Il **Consiglio Direttivo** **dell’Associazione Diabetici Della Provincia di Brescia risulta così costituito:**
+
+PRESIDENTE: EDELWIESS CECCARDI
+
+VICEPRESIDENTE: LUISELLA ROSSI
+
+CONSIGLIERI: BARBARA ABISSONI, RENATO AMATO, PAOLO ATTOLINO, FAUSTA BERTAZZOLI, ALESSANDRA CANORI, SIMONE FIRMO, EMIRENA GARAFFA, CARLO GOZZI, CLAUDIA LOMBARDI, SIMONA MARIA ROSA MARAVIGLIA, MARIO MARIO, FABIO MENSI, EFREM PANELLI, RENATO PERILLO, GIULIA RODELLA, FRANCO SEGANTIN, MANUEL SOLDI, MARIA LUISA UBERTI.
