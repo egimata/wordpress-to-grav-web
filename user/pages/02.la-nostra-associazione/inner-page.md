@@ -1,6 +1,7 @@
 ---
 title: "La nostra associazione"
 date: "2018-10-30"
+left_right_text: true
 ---
 
 Associazione Diabetici della Provincia di Brescia:
