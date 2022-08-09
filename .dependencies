@@ -19,6 +19,10 @@ git:
         url: https://github.com/egimata/grav-theme
         path: user/themes/diabetica
         branch: master
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch.git
+        path: user/plugins/simplesearch
+        branch: master
 links:
     problems:
         src: grav-plugin-problems
@@ -39,4 +43,8 @@ links:
     diabet-theme:
         src: grav-theme
         path: user/themes/diabetica
+        scm: github
+    simplesearch:
+        src: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
         scm: github
