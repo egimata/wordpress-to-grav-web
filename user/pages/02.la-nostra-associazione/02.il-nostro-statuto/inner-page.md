@@ -1,6 +1,7 @@
 ---
 title: "Il nostro statuto"
 date: "2019-12-20"
+small_card_la_nostra_statuto: true
 ---
 
 ### [5 novembre 1977 Statuto](http://198.211.122.197/diabetwp/wordpress/wp-content/uploads/2019/12/allegato-2-statuto-v-.pdf)

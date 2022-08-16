@@ -1,6 +1,7 @@
 ---
 title: "La mission dell'associazione"
 date: "2019-12-20"
+left_right_text_4_lanostra: true
 ---
 
 **L’Associazione Diabetici della Provincia di Brescia (A.D.P.B.)** è stata fondata a Brescia nel 1982 per iniziativa di un gruppo di pazienti diabetici che si conobbero nel reparto di Seconda Medicina pressi gli Spedali Civili di Brescia. I medici accolsero l'idea con grande interesse, ritenendo che un'associazione ben strutturata potesse offrire al malato diabetico un valido aiuto psicologico soprattutto nel primo impatto con la malattia e le sue complicanze. La partecipazione attiva del pazienti volontari aveva come fine quello di collaborare con gli organi sanitari nell'estendere l'informazione, favorire corsi di educazione dietetica e igienica, aiutare all'autocontrollo domiciliare e cooperare per un buon inserimento dei diabetici nel mondo del lavoro e in quello della scuola.

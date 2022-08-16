@@ -1,6 +1,8 @@
 ---
 title: "Consiglio Direttivo"
 date: "2019-11-25"
+la_nostra_index1: true
+inner_two_column_text: true
 ---
 
 
