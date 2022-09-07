@@ -8,7 +8,7 @@ coverImage: "io-noi-il-diabete-maggio-2021-copetina-.jpg"
 
 Cari lettori, in questo numero abbiamo scelto come immagine di copertina questo paesaggio che allontana la mente dalla grave emergenza sanitaria ancora in atto. Il lungo periodo di lockdown ci ha obbligato a stare a casa in conatto solo con i nostri famigliari. Tuttavia il nostro organismo va preservato con sani stili di vita nei…
 
-<div class="link-box"><a href="{{ base_url }}/la-nostra-associazione/la-mission-dellassociazione" class="theme-btn btn-style-two"><span class="btn-title">Leggi di più</span></a></div>
+<div class="link-box"><a href="/la-nostra-associazione/la-mission-dellassociazione" class="theme-btn btn-style-two"><span class="btn-title">Leggi di più</span></a></div>
 
 <!-- \[vc\_row\]\[vc\_column width="1/2"\]\[vc\_column\_text\]
 

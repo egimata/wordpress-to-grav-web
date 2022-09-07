@@ -8,7 +8,7 @@ coverImage: "io-noi-il-diabete-bis-dicembre-2019-dario_bassa-1-01.jpg"
 
 Giornata Mondiale 2019
 
-<div class="link-box"><a href="{{ base_url }}/la-nostra-associazione/la-mission-dellassociazione" class="theme-btn btn-style-two"><span class="btn-title">Leggi di più</span></a></div>
+<div class="link-box"><a href="/la-nostra-associazione/la-mission-dellassociazione" class="theme-btn btn-style-two"><span class="btn-title">Leggi di più</span></a></div>
 
 <!-- \[vc\_row\]\[vc\_column width="1/2"\]\[vc\_column\_text\]
 
