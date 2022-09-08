@@ -2,6 +2,7 @@
 title: "Le nostre sezioni"
 date: "2018-10-30"
 la_nostra_index3: true
+accordion_lanostra3: true
 ---
 
 ![i nostri esperti](images/angela-girelli.jpg) **Angela Girelli**
