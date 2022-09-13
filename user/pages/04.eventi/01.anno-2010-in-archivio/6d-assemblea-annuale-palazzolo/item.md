@@ -5,4 +5,6 @@ taxonomy:
   tag: [anno-2010-in-archivio]
 ---
 
-{yoogallery src=\[/images/gallerie/6-Assemblea-Annuale-Palazzolo/\]  thumb=\[rounded\] width=\[100\] height=\[100\] spotlight=\[1\]}
+6° Assemblea annuale
+
+Scarica volantino [qui](http://198.211.122.197/diabetwp/wordpress/wp-content/uploads/2010/04/6-assemblea-palazzolo.pdf)
