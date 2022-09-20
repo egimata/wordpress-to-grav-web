@@ -22,6 +22,10 @@ git:
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch.git
         path: user/plugins/simplesearch
+        branch: master.
+    breadcrumbs:
+        url: https://github.com/getgrav/grav-plugin-breadcrumbs.git
+        path: user/plugins/breadcrumbs
         branch: master
 links:
     problems:
@@ -47,4 +51,8 @@ links:
     simplesearch:
         src: grav-plugin-simplesearch
         path: user/plugins/simplesearch
+        scm: github
+    breadcrumbs:
+        src: grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
         scm: github
