@@ -1,6 +1,6 @@
 ---
-title: "Tesseramento 2021"
-date: "2021-01-18"
+title: "Amico Giuseppe Bonardi"
+date: "14-12-2021"
 categories: 
   - "anno-2021-in-corso-2"
 coverImage: "io noi il diabete dicembre 2021_page-0015.jpg"

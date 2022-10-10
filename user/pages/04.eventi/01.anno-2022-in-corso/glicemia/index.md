@@ -1,6 +1,6 @@
 ---
 title: "Glicemia 2022"
-date: "2013-12-08"
+date: "18-06-2022"
 taxonomy: 
     tag: [anno-2022-in-corso]
 coverImage: "io noi il diabete maggio 2022_definitivo (1)_page-0020.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Assemblea Annuale"
-date: "2022-12-26"
+date: "10-06-2022"
 taxonomy: 
     tag: [anno-2022-in-corso]
 coverImage: "io noi il diabete maggio 2022_definitivo (1)_page-0008.jpg"

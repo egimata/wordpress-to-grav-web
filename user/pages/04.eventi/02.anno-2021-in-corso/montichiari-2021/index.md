@@ -1,6 +1,6 @@
 ---
-title: "Tesseramento 2021"
-date: "2021-01-18"
+title: "Montichiari 2021"
+date: "20-01-2022"
 categories: 
   - "anno-2021-in-corso-2"
 coverImage: "io noi il diabete dicembre 2021_page-0018.jpg"

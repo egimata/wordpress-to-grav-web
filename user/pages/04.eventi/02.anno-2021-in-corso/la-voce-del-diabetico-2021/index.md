@@ -1,6 +1,6 @@
 ---
-title: "Assemblea Annuale 2021"
-date: "2021-05-24"
+title: "La Voce Del Diabetico"
+date: "09-01-2022"
 taxonomy: 
     tag: [anno-2021-in-corso]
 coverImage: "io noi il diabete dicembre 2021_page-0001.jpg"

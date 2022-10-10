@@ -1,6 +1,6 @@
 ---
-title: "Tesseramento 2021"
-date: "2021-01-18"
+title: "Le Scuole e Bresciane e La Giornata Mondiale Del Diabete"
+date: "20-12-2021"
 categories: 
   - "anno-2021-in-corso-2"
 coverImage: "io noi il diabete dicembre 2021_page-0006.jpg"

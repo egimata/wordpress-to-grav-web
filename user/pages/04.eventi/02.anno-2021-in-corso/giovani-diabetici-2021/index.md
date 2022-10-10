@@ -1,6 +1,6 @@
 ---
 title: "Richiesta di vaccinazione prioritaria contro il virus Sars-Cov-2"
-date: "2021-01-11"
+date: "28-12-2021"
 categories: 
   - "anno-2021-in-corso-2"
 coverImage: "io noi il diabete dicembre 2021_page-0005.jpg"

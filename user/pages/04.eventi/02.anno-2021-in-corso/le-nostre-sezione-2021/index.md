@@ -1,6 +1,6 @@
 ---
-title: "GIORNATA MONDIALE DEL DIABETE 2021"
-date: "2021-11-01"
+title: "Le Nostre Sezioni"
+date: "14-01-2022"
 taxonomy: 
     tag: [anno-2021-in-corso]
 coverImage: "io noi il diabete dicembre 2021_page-0002.jpg"
